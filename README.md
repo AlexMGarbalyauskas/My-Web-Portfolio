@@ -1,4 +1,10 @@
 # React + Vite
+Tools used for this portfolio are as follows, React, Vite, Node.js, JavaScript, HTML, CSS 
+
+#Start
+npm install
+npm run dev
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
