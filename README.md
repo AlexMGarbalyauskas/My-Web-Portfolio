@@ -10,6 +10,10 @@ npm run dev
 
 # References 
 
+Logo design created on Canva
+
+https://www.canva.com/
+
 Loading
 
 https://www.geeksforgeeks.org/how-to-create-loading-screen-in-reactjs/
