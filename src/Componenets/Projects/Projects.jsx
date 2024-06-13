@@ -11,7 +11,7 @@ const Projects = () => {
 
 
   const videoIds = {
-    p1: "kRttMKt5O0s",  // Replace this with the actual video ID
+    p1: "kRttMKt5O0s",  
     p2: "ZsLX-dLFc0M",
     p3: "fi7CTMhJbco",
     p4: "eIYn-XpvEws",
