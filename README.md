@@ -1,8 +1,10 @@
 # React + Vite
 Tools used for this portfolio are as follows, React, Vite, Node.js, JavaScript, HTML, CSS 
 
-#Start
+# Start
+
 npm install
+
 npm run dev
 
 
