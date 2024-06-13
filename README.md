@@ -7,6 +7,15 @@ npm install
 
 npm run dev
 
+# References 
+
+Icons
+https://react-icons.github.io/react-icons/
+
+Deployment
+https://create-react-app.dev/docs/deployment/
+
+
 #
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
