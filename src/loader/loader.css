@@ -7,6 +7,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: navy; /* or any color you want */
-    z-index: 9999; /* ensure it's on top of everything else */
+    background-color: navy; 
+    z-index: 9999; 
   }
