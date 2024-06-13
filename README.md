@@ -19,6 +19,9 @@ https://react-icons.github.io/react-icons/
 Deployment
 https://create-react-app.dev/docs/deployment/
 
+Issues while coding fixed via these references
+https://www.youtube.com/watch?v=UohKvMsWCh4
+
 
 #
 
