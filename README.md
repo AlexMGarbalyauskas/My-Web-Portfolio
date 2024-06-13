@@ -2,6 +2,7 @@
 Tools used for this portfolio are as follows, React, Vite, Node.js, JavaScript, HTML, CSS 
 
 # Start
+Install needed tools
 
 npm install
 
