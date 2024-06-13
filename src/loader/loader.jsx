@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactLoading from 'react-loading';
-import './loader.css'; // Make sure to create this CSS file
+import './loader.css'; 
 
 const Loader = () => {
   return (
