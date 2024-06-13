@@ -9,6 +9,9 @@ npm run dev
 
 # References 
 
+Loading
+https://www.geeksforgeeks.org/how-to-create-loading-screen-in-reactjs/
+
 Icons
 https://react-icons.github.io/react-icons/
 
