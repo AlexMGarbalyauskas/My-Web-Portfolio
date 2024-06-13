@@ -1,7 +1,7 @@
 .about {
     width: 100%;
     min-height: 100vh;
-    padding-top: 30px; /* Adjust the value as needed to push content below the navbar */
+    padding-top: 30px; 
     background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)), url('../../assets/background3.jpg');
     background-size: cover;
     background-position: center;
@@ -14,14 +14,14 @@
 }
 
 .about h1 {
-    margin-bottom: 40px; /* Adjust the value as needed */
+    margin-bottom: 40px; 
     font-size: 2.5rem;
 }
 
 .about p {
     font-size: 1.2rem;
     margin-bottom: 80px;
-    max-width: 800px; /* Adjust the value as needed to control the paragraph width */
+    max-width: 800px; 
     margin-left: auto;
     margin-right: auto;
 }
@@ -45,14 +45,14 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100px;  /* Adjust the value as needed */
-    height: 100px; /* Adjust the value as needed */
-    background-color: rgba(255, 255, 255, 0.1); /* Box background color */
+    width: 100px; 
+    height: 100px; 
+    background-color: rgba(255, 255, 255, 0.1); 
     border-radius: 10px;
     margin-bottom: 90px;
 }
 
 .icon {
-    font-size: 50px; /* Adjust the value as needed */
+    font-size: 50px; 
     color: #FFF;
 }
