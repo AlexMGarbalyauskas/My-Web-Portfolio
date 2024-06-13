@@ -1,0 +1,79 @@
+.CV {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)), url('../../assets/background3.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-top: 200px;
+    margin-bottom: 40px;
+}
+
+.image-container {
+    position: relative;
+    padding: 40px;
+    border: 5px solid #606eff;
+    box-shadow: 0 4px 8px rgba(12, 255, 202, 0.2);
+    background-color: rgba(255, 0, 0, 0.1);
+    margin-bottom: 70px;
+}
+
+.CV img {
+    height: 900px;
+    width: 600px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.button-container {
+    display: flex;
+    gap: 100px;
+    margin-bottom: 80px;
+}
+
+.CV button {
+    color: #ffffff;
+    font: 700 normal 2.5em 'tahoma';
+    background: navy;
+    width: 9em;
+    height: 3em;
+    border-radius: 30em;
+    font-size: 15px;
+    font-family: inherit;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    box-shadow: 6px 6px 12px #c5c5c5,
+                -6px -6px 12px #ffffff;
+}
+
+.CV button::before {
+    content: '';
+    width: 0;
+    height: 3em;
+    border-radius: 30em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(to right, #06fbff 0%, #1c0072 100%);
+    transition: .5s ease;
+    display: block;
+    z-index: -1;
+}
+
+.CV button:hover::before {
+    width: 9em;
+}

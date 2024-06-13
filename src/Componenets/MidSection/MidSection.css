@@ -1,0 +1,32 @@
+.midsection{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)), url('../../assets/background3.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text{
+    text-align: center;
+    max-width: 800px;
+}
+
+.text h1{
+    font-size: 60px;
+    font-weight: 600;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    font: 700 normal 2.5em 'tahoma';
+    text-shadow: 5px 2px #004891, 2px 4px #004f9d, 3px 5px #00519d;
+}
+
+.text p{
+    max-width: 700px;
+    margin: 10px auto 20px;
+    line-height: 1.5;
+    
+}
