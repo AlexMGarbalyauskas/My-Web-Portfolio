@@ -4,7 +4,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding-bottom: 20px; /* Added padding to create space above the footer */
+  padding-bottom: 20px; 
   color: #FFF;
   text-align: center;
   background: linear-gradient(rgba(8,0,58,0.7), rgba(8,0,58,0.7)), url('../../assets/background3.jpg');
@@ -20,6 +20,6 @@
 
 .extra p {
   font-size: 1.2rem;
-  margin-bottom: 50px; /* Increased margin to create more space between paragraphs and footer */
-  max-width: 800px; /* Control the paragraph width */
+  margin-bottom: 50px;
+  max-width: 800px; 
 }
