@@ -1,6 +1,8 @@
 # React + Vite
 Tools used for this portfolio are as follows, React, Vite, Node.js, JavaScript, HTML, CSS, Router Dom
 
+[![](https://visitcount.itsvg.in/api?id=Alex&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 # Start
 Install needed tools
 
